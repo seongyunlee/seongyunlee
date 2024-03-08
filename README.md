@@ -1,4 +1,4 @@
-## Hi, I'm Seongyun Lee 🤗
+## Hi, I'm Seongyun 🤗
 Hi there! I'm Seongyun Lee (이성윤), a passionate backend software engineer specializing in NodeJS and Java Spring. I have a strong interest in developing a service with high availabily and reliability.
 
 
