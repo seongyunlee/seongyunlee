@@ -15,6 +15,6 @@ Hi there! I'm Seongyun Lee (이성윤), a passionate backend software engineer s
 
 ### 🙋‍♂️ Contact with 
 - Email: mader0708@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/seongyun-lee-66b023128/
+- [LinkedIn](https://www.linkedin.com/in/seongyun-lee-66b023128/)
 
 
