@@ -10,7 +10,7 @@ Hi there! I'm Seongyun Lee (이성윤), a passionate backend software engineer s
 
 ### 🧑‍💻 Activity 
 - Sungkyunkwan University (2018.03. ~)
-  - Major in Software and Machincal Engineerings
+  - Major in Software and Mechanical Engineering
 - SW Maestro 14th (2023.04 ~ 2023.11)
 
 ### 🙋‍♂️ Contact with 
