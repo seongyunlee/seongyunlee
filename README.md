@@ -2,7 +2,7 @@
 Hi there! I'm Seongyun Lee (이성윤), a passionate backend software engineer specializing in NodeJS and Java Spring. I have a strong interest in developing a service with high availabily and reliability.
 
 
-### 🤔 I'm familar with
+### 🤔 I'm now learning
 - Langauge: TypeScript, Kotlin, Java, Python
 - Framework: NestJS, ExpressJS, Spring boot
 - DB : MySQL, MongoDB, DynamoDB, Redis
