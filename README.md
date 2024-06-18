@@ -4,7 +4,7 @@ Hi there! I'm Seongyun Lee (이성윤), a passionate backend software engineer s
 
 ### 🤔 I'm now learning
 - Langauge: Kotlin(Favorite), Java, Javascript, Python
-- Framework: NestJS, ExpressJS, Spring boot
+- Framework: Spring boot, NestJS, ExpressJS
 - DB : MySQL, MongoDB, DynamoDB, Redis
 - DevOps: Kubernetes, Docker, Argo Workflows, Github Actions
 
